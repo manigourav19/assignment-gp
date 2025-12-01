@@ -69,7 +69,7 @@ A simple workflow that runs tests on push/pull-request, checks formatting with `
 1. Clone the repo
 
 ```bash
-git clone https://github.com/<your-username>/assignment-gp.git
+git clone https://github.com/<gp>/assignment-gp.git
 cd assignment-gp
 ```
 
@@ -479,8 +479,7 @@ MIT License
 
 Copyright (c) 2025 <GP>
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-... (standard MIT text)
+
 ```
 
 
