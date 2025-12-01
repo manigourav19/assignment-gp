@@ -483,13 +483,5 @@ Permission is hereby granted, free of charge, to any person obtaining a copy
 ... (standard MIT text)
 ```
 
----
 
-If you'd like I can now:
-
-- Create each of these files for you and provide a zip you can download, or
-- Create a single combined repository file here and let you copy, or
-- Push the structure to your GitHub repo if you provide a repo name and grant access (I cannot perform the push for you, but I can give exact commands).
-
-Tell me which of the three you'd like next and I will proceed.
 
