@@ -69,7 +69,7 @@ A simple workflow that runs tests on push/pull-request, checks formatting with `
 1. Clone the repo
 
 ```bash
-git clone https://github.com/<gp>/assignment-gp.git
+git clone https://github.com/<manigourav19>/assignment-gp.git
 cd assignment-gp
 ```
 
