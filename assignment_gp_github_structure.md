@@ -477,7 +477,7 @@ def test_factorial_small():
 ```text
 MIT License
 
-Copyright (c) 2025 <Your Name>
+Copyright (c) 2025 <GP>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 ... (standard MIT text)
